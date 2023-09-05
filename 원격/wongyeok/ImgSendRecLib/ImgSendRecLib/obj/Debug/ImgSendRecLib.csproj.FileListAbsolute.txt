@@ -1,0 +1,6 @@
+C:\vsTest\원격\wongyeok\ImgSendRecLib\ImgSendRecLib\bin\Debug\ImgSendRecLib.dll
+C:\vsTest\원격\wongyeok\ImgSendRecLib\ImgSendRecLib\bin\Debug\ImgSendRecLib.pdb
+C:\vsTest\원격\wongyeok\ImgSendRecLib\ImgSendRecLib\obj\Debug\ImgSendRecLib.csproj.AssemblyReference.cache
+C:\vsTest\원격\wongyeok\ImgSendRecLib\ImgSendRecLib\obj\Debug\ImgSendRecLib.csproj.CoreCompileInputs.cache
+C:\vsTest\원격\wongyeok\ImgSendRecLib\ImgSendRecLib\obj\Debug\ImgSendRecLib.dll
+C:\vsTest\원격\wongyeok\ImgSendRecLib\ImgSendRecLib\obj\Debug\ImgSendRecLib.pdb

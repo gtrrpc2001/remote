@@ -1,0 +1,6 @@
+C:\vsTest\원격\wongyeok\RecvRCInfoEvent\RecvRCInfoEvent\bin\Debug\RecvRCInfoEvent.dll
+C:\vsTest\원격\wongyeok\RecvRCInfoEvent\RecvRCInfoEvent\bin\Debug\RecvRCInfoEvent.pdb
+C:\vsTest\원격\wongyeok\RecvRCInfoEvent\RecvRCInfoEvent\obj\Debug\RecvRCInfoEvent.csproj.AssemblyReference.cache
+C:\vsTest\원격\wongyeok\RecvRCInfoEvent\RecvRCInfoEvent\obj\Debug\RecvRCInfoEvent.csproj.CoreCompileInputs.cache
+C:\vsTest\원격\wongyeok\RecvRCInfoEvent\RecvRCInfoEvent\obj\Debug\RecvRCInfoEvent.dll
+C:\vsTest\원격\wongyeok\RecvRCInfoEvent\RecvRCInfoEvent\obj\Debug\RecvRCInfoEvent.pdb

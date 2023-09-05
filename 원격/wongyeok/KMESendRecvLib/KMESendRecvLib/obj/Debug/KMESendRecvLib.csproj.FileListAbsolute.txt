@@ -1,0 +1,6 @@
+C:\vsTest\원격\wongyeok\KMESendRecvLib\KMESendRecvLib\bin\Debug\KMESendRecvLib.dll
+C:\vsTest\원격\wongyeok\KMESendRecvLib\KMESendRecvLib\bin\Debug\KMESendRecvLib.pdb
+C:\vsTest\원격\wongyeok\KMESendRecvLib\KMESendRecvLib\obj\Debug\KMESendRecvLib.csproj.AssemblyReference.cache
+C:\vsTest\원격\wongyeok\KMESendRecvLib\KMESendRecvLib\obj\Debug\KMESendRecvLib.csproj.CoreCompileInputs.cache
+C:\vsTest\원격\wongyeok\KMESendRecvLib\KMESendRecvLib\obj\Debug\KMESendRecvLib.dll
+C:\vsTest\원격\wongyeok\KMESendRecvLib\KMESendRecvLib\obj\Debug\KMESendRecvLib.pdb
